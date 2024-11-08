@@ -6,12 +6,18 @@
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
 
-### 🤔 **_Title 2_**
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+**This is a normal paragraph**
 
+    This is a normal paragraph
+    1.A
+    2.B
+    3.C
+
+### 🤔 **_Title 2_**
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 * * *
-[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 
 <!--
 **Subeen1128/Subeen1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
